@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer Engineering student at IOE Purwanchal Campus<br>⚙️ Skilled in MERN Stack,Machine Learning and currently exploring Deep Learning<br>🚀 Constantly learning new technologies and working on exciting real-world projects
+💻 Computer Engineering student at IOE Purwanchal Campus<br>⚙️ Skilled in MERN Stack,Machine Learning and currently exploring Deep Learning,Fast API<br>🚀 Constantly learning new technologies and working on exciting real-world projects
 
 
 ## 🌐 Socials:
